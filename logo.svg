@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 40" width="133" height="40">
+	<title>logo-icex</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-0.42h132.78v40.84h-132.78z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g>
+			<path class="s0" d="m8.7 0.3h-8.7v7.7h8.7z"/>
+			<path class="s0" d="m84.7 15.2h-24.5v9.6h24.5z"/>
+			<path class="s0" d="m119.2 20l13.6-19.7h-10.2l-8.4 12.3-8.5-12.3h-10.1l13.5 19.7-13.5 19.8h10.1l8.5-12.4 8.4 12.3h10.2z"/>
+			<path class="s0" d="m16.8 20.1v-0.1c0-11.2 8.5-20.4 20.6-20.4 7.4 0 11.9 2.5 15.6 6.1l-5.6 6.4c-3-2.8-6.1-4.5-10.1-4.5-6.6 0-11.4 5.5-11.4 12.3v0.1c0 6.8 4.7 12.4 11.4 12.4 4.5 0 7.3-1.8 10.4-4.6l5.5 5.6c-4 4.3-8.5 7-16.1 7-11.7 0-20.3-9-20.3-20.3z"/>
+			<path class="s0" d="m0 15.8v23.9h8.7v-31.6z"/>
+			<path class="s0" d="m90 0.3h-29.8v9.7h29.8z"/>
+			<path class="s0" d="m90 30.1h-29.8v9.6h29.8z"/>
+		</g>
+	</g>
+</svg>
